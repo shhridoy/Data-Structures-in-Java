@@ -7,7 +7,7 @@ import java.util.List;
 public class ArrayList1 {
     
     public static void main(String[] args) {
-        // TODO code application logic here
+
         List<String> words = new ArrayList<String>();
         System.out.println("Current Array List: ");
         // append
@@ -16,15 +16,15 @@ public class ArrayList1 {
         words.add("Java");
         printList(words);
  
-        words.add(0, "Python");
+        words.add(0, "Python"); // adding element using index
         System.out.println("\nInsert via index: ");
         printList(words);
  
-        words.set(1, "C#");
+        words.set(1, "C#"); // replace element using index
         System.out.println("\nUpdate via index: ");
         printList(words);
  
-        words.remove(0);
+        words.remove(0); // remove element from list
         System.out.println("\nRemove via index: ");
         printList(words);
         
