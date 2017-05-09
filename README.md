@@ -25,6 +25,7 @@ Then we also have some complex Data Structures, which are used to store large an
     Stack, Queue etc.
 
 All these data structures allow us to perform different operations on data. We select these data structures based on which type of operation is required.
+
 <p align="center">
 <img src="http://www.studytonight.com/data-structures/images/introduction-to-data-structures.gif"?raw="true">
 </p>
@@ -52,8 +53,7 @@ Time Complexity is a way to represent the amount of time needed by the program t
 www.studytonight.com
 
 ### Author
-MD. Saiful Haque Hridoy
-
+MD. Saiful Haque Hridoy<br>
 Noakhali Science and Technology University
 
 Facebook:
